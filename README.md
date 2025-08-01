@@ -14,13 +14,11 @@
   &nbsp;&nbsp;
   <a href="https://github.com/tchisama/karne"><img src="./assets/img/Card05.png" width="49%" alt="K-arné Project"></a>
 </p>
-<!-- Social Media Cards - Stacked vertically -->
+<!-- Social Media Cards - Horizontal row -->
 <p>
-  <a href="https://youtube.com/@tchisama"><img src="./assets/img/Card06a.png" width="100%" alt="YouTube Channel"></a>
-</p>
-<p>
-  <a href="https://instagram.com/tchisama"><img src="./assets/img/Card06b.png" width="100%" alt="Instagram Profile"></a>
-</p>
-<p>
-  <a href="https://github.com/tchisama/karne"><img src="./assets/img/Card06c.png" width="100%" alt="Karne Project"></a>
+  <a href="https://youtube.com/@tchisama"><img src="./assets/img/Card06a.png" width="32%" alt="YouTube Channel"></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/tchisama"><img src="./assets/img/Card06b.png" width="32%" alt="Instagram Profile"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tchisama/karne"><img src="./assets/img/Card06c.png" width="32%" alt="Karne Project"></a>
 </p>
