@@ -16,9 +16,9 @@
 </p>
 <!-- Social Media Cards - Horizontal row -->
 <p>
-  <a href="https://www.youtube.com/@onizuka6387"><img src="./assets/img/Card06a.png" width="32%" alt="YouTube Channel"></a>
+  <a href="https://www.youtube.com/@onizuka6387"><img src="./assets/img/Card06b.png" width="32%" alt="YouTube Channel"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/r8d.en/"><img src="./assets/img/Card06b.png" width="32%" alt="Instagram Profile"></a>
+  <a href="https://www.instagram.com/r8d.en/"><img src="./assets/img/Card06a.png" width="32%" alt="Instagram Profile"></a>
   &nbsp;&nbsp;
   <a href="https://k-arne.com"><img src="./assets/img/Card06c.png" width="32%" alt="Karne Project"></a>
 </p>
