@@ -1,6 +1,6 @@
 
 <p>
-  <a  href="https://tchisama.com"><img src="./images/hi.png" width=100% alt=""></a>
+  <a  href="https://tchisama.com"><img src="./images/hi.png" width=100% alt="">gg</a>
 </p>
 <!--
 <p>
@@ -10,9 +10,9 @@
 </p>
 -->
 <p>
-  <a href="https://tchisama.com"><img src="./images/2.png" width=49% alt=""></a>
+  <a href="https://tchisama.com"><img src="./images/2.png" width=49% alt="">gg</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tchisama?tab=repositories"><img src="./images/4.png" width=48.5% alt=""></a>
+  <a href="https://github.com/tchisama?tab=repositories"><img src="./images/4.png" width=48.5% alt="">gg</a>
 </p>
 
 
