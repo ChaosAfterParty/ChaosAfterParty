@@ -14,25 +14,13 @@
   &nbsp;&nbsp;
   <a href="https://github.com/tchisama/karne"><img src="./assets/img/Card05.png" width="49%" alt="K-arné Project"></a>
 </p>
-<!-- Social Media Section (Card06 + Icons) -->
-<p align="center">
-  <a href="https://www.elhouninouamane.com"><img src="./assets/img/Card06.png" width="100%" alt="Connect with me"></a>
+<!-- Social Media Cards - Stacked vertically -->
+<p>
+  <a href="https://youtube.com/@tchisama"><img src="./assets/img/Card06a.png" width="100%" alt="YouTube Channel"></a>
 </p>
-<!-- Social Icons Row -->
-<p align="center">
-  <a href="https://instagram.com/tchisama">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@tchisama">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/tchisama">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nouamane-elhouni">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p>
+  <a href="https://instagram.com/tchisama"><img src="./assets/img/Card06b.png" width="100%" alt="Instagram Profile"></a>
+</p>
+<p>
+  <a href="https://github.com/tchisama/karne"><img src="./assets/img/Card06c.png" width="100%" alt="Karne Project"></a>
 </p>
